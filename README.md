@@ -1,5 +1,16 @@
 # Chat-App-TypeScript
 
+### Christmas Project
+
+Currently in Holyday in.
+Christmas Project
+<img
+      src="https://camo.githubusercontent.com/a056dc57f75da10bf33eada5b868d77529489c431eab341a6ec92897ed22b67a/68747470733a2f2f63646e2e77696e646f77737265706f72742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31322f4368726973746d61732e6a7067"
+      height="500"
+      width="auto"
+      alt=""
+    />
+
 <img src="https://serokell.io/files/0u/0ufu1q21.js-ts.jpg" alt="">
 
 Chat-App This Appplication is designed to try out typeScript and have fun doing it.
